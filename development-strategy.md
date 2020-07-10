@@ -45,7 +45,7 @@ Building this site one step at a time according to the following steps .
 
 **A user can delete his/her report**
 
-## 5. User Story: see all reports
+## 6. User Story: see all reports
 
 **The user can see reports of where there is electricity and where there is not.**
 
@@ -53,18 +53,18 @@ Building this site one step at a time according to the following steps .
 - The user can see a list of reports of places where there is no electricity.
 - The user can click on a report to display the details.
 
-## 5. User Story: survival tips
+## 7. User Story: survival tips
 
 - Create a page with tips to save water and conserve food for days without electricity.
 
-## 6. User Story: interactive map
+## 8. User Story: interactive map
 
 **The user can see an interactive map of Venezuela**
 
 - The map will have green dots for each positive report.
 - The map will have red dots for each negative report.
 
-## 7. User Story: about page
+## 9. User Story: about page
 
 **User can see a description of this project on a page**
 
