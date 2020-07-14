@@ -1,12 +1,3 @@
-# Budget-App: Development-Strategy
-
-Building this site one step at a time according to the following steps .
-
-## 0. Setup
-
-- Create `development-strategy.md`
-- Create `readme.md`
-- Create `React app`
 
 ## 1. User Story: Registry
 
